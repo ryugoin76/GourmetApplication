@@ -1,0 +1,38 @@
+﻿@* ViewModelを指定する *@
+@model GourmetJoinViewModel
+@{
+    ViewData["title"] = "グルメ";
+}
+
+<div>各地のグルメリストを表示する画面です。</div>
+
+<div class="mt-4">データ更新日：@Model.UpdateDate.ToString("d")</div>
+
+<a class="btn btn-primary" asp-controller="Gourmet" asp-action="Add" >グルメ追加</a>
+<a class="btn btn-warning" asp-controller="Gourmet" asp-action="Update">グルメ更新</a>
+<a class="btn btn-danger" asp-controller="Gourmet" asp-action="Delete">グルメ削除</a>
+
+<table class="table">
+    <thead>
+        <tr>
+@*             <th>グルメID</th>
+            <th>都道府県番号</th> *@
+            <th>都道府県名</th>
+            <th>グルメ名</th>
+            <th>評価</th>
+        </tr>
+    </thead>
+    <tbody>
+        @* テーブルのデータ行をグルメ情報の個数分繰り返し出力 *@
+        @foreach (var gourmet in Model.GourmetList)
+        {
+            <tr>
+@*                 <td>@gourmet.GourmetId</td>
+                <td>@gourmet.PrefectureCode</td> *@
+                <td>@gourmet.PrefectureName</td>
+                <td>@gourmet.GourmetName</td>
+                <td>@gourmet.Rate</td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,67 @@
+﻿@* ViewModelを指定する *@
+@model RamenViewModel
+@{
+    ViewData["title"] = "ラーメン";
+}
+
+<div>各地のラーメンリストを表示する画面です。</div>
+
+<form class="card my-4" asp-controller="Ramen" asp-action="Index" method="post">
+    <div class="card-header">
+        検索条件
+    </div>
+    <div class="card-body">
+        <div class="row gy-2">
+            <div class="col-2">
+                @* <label for="Prefecture" class="col-form-label">都道府県名</label> *@
+                <label asp-for="SearchPrefecture" class="col-form-label">都道府県名</label>
+            </div>
+            <div class="col-10">
+                @* 都道府県入力用 *@
+                @* <input type="text" id="Prefecture" class="form-control"> *@
+                <input type="text" asp-for="SearchPrefecture" class="form-control">
+                @Html.ValidationMessageFor(Model => Model.SearchPrefecture)
+            </div>
+            <div class="col-2">
+                @* <label for="Name" class="col-form-label">名前</label> *@
+                <label asp-for="SearchName" class="col-form-label">名前</label>
+            </div>
+            <div class="col-10">
+                @* 名前入力用 *@
+                @* <input type="text" id="Name" class="form-control"> *@
+                <input type="text" asp-for="SearchName" class="form-control">
+                @Html.ValidationMessageFor(Model => Model.SearchName)
+            </div>
+            <div class="col-12 text-end">
+                <button class="btn btn-primary">検索</button>
+            </div>
+        </div>
+    </div>
+</form>
+
+@* データ更新日を日付のみに加工して表示 *@
+<div class="mt-4">データ更新日：@Model.UpdateDate.ToString("d")</div>
+<table class="table">
+    <thead>
+        <tr>
+            <th>都道府県</th>
+            <th>名前</th>
+        </tr>
+    </thead>
+    <tbody>
+        @* テーブルのデータ行をラーメン情報の個数分繰り返し出力 *@
+        @foreach (var ramen in Model.RamenList)
+        {
+            <tr>
+                <td>@ramen.Prefecture</td>
+                <td>@ramen.Name</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@* @section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+} *@

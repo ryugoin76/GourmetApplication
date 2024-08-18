@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\github\\GourmetApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2098985-9799-42E5-86B3-CCC09BE5D5CB}|GourmetApplication\\GourmetApplication.csproj|c:\\users\\user\\github\\gourmetapplication\\gourmetapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2098985-9799-42E5-86B3-CCC09BE5D5CB}|GourmetApplication\\GourmetApplication.csproj|solutionrelative:gourmetapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2098985-9799-42E5-86B3-CCC09BE5D5CB}|GourmetApplication\\GourmetApplication.csproj|c:\\users\\user\\github\\gourmetapplication\\gourmetapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2098985-9799-42E5-86B3-CCC09BE5D5CB}|GourmetApplication\\GourmetApplication.csproj|solutionrelative:gourmetapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2098985-9799-42E5-86B3-CCC09BE5D5CB}|GourmetApplication\\GourmetApplication.csproj|c:\\users\\user\\github\\gourmetapplication\\gourmetapplication\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2098985-9799-42E5-86B3-CCC09BE5D5CB}|GourmetApplication\\GourmetApplication.csproj|solutionrelative:gourmetapplication\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2098985-9799-42E5-86B3-CCC09BE5D5CB}|GourmetApplication\\GourmetApplication.csproj|c:\\users\\user\\github\\gourmetapplication\\gourmetapplication\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2098985-9799-42E5-86B3-CCC09BE5D5CB}|GourmetApplication\\GourmetApplication.csproj|solutionrelative:gourmetapplication\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2098985-9799-42E5-86B3-CCC09BE5D5CB}|GourmetApplication\\GourmetApplication.csproj|c:\\users\\user\\github\\gourmetapplication\\gourmetapplication\\controllers\\gourmetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2098985-9799-42E5-86B3-CCC09BE5D5CB}|GourmetApplication\\GourmetApplication.csproj|solutionrelative:gourmetapplication\\controllers\\gourmetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2098985-9799-42E5-86B3-CCC09BE5D5CB}|GourmetApplication\\GourmetApplication.csproj|c:\\users\\user\\github\\gourmetapplication\\gourmetapplication\\views\\ramen\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2098985-9799-42E5-86B3-CCC09BE5D5CB}|GourmetApplication\\GourmetApplication.csproj|solutionrelative:gourmetapplication\\views\\ramen\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2098985-9799-42E5-86B3-CCC09BE5D5CB}|GourmetApplication\\GourmetApplication.csproj|c:\\users\\user\\github\\gourmetapplication\\gourmetapplication\\controllers\\ramencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2098985-9799-42E5-86B3-CCC09BE5D5CB}|GourmetApplication\\GourmetApplication.csproj|solutionrelative:gourmetapplication\\controllers\\ramencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2098985-9799-42E5-86B3-CCC09BE5D5CB}|GourmetApplication\\GourmetApplication.csproj|c:\\users\\user\\github\\gourmetapplication\\gourmetapplication\\models\\gourmetjoinviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2098985-9799-42E5-86B3-CCC09BE5D5CB}|GourmetApplication\\GourmetApplication.csproj|solutionrelative:gourmetapplication\\models\\gourmetjoinviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\user\\github\\GourmetApplication\\GourmetApplication\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "GourmetApplication\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\user\\github\\GourmetApplication\\GourmetApplication\\appsettings.Development.json",
+              "RelativeToolTip": "GourmetApplication\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-17T05:18:11.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GourmetController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\github\\GourmetApplication\\GourmetApplication\\Controllers\\GourmetController.cs",
+              "RelativeDocumentMoniker": "GourmetApplication\\Controllers\\GourmetController.cs",
+              "ToolTip": "C:\\Users\\user\\github\\GourmetApplication\\GourmetApplication\\Controllers\\GourmetController.cs",
+              "RelativeToolTip": "GourmetApplication\\Controllers\\GourmetController.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAAAEwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T08:48:16.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\user\\github\\GourmetApplication\\GourmetApplication\\Dockerfile",
+              "RelativeDocumentMoniker": "GourmetApplication\\Dockerfile",
+              "ToolTip": "C:\\Users\\user\\github\\GourmetApplication\\GourmetApplication\\Dockerfile",
+              "RelativeToolTip": "GourmetApplication\\Dockerfile",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-04T04:50:52.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\github\\GourmetApplication\\GourmetApplication\\appsettings.json",
+              "RelativeDocumentMoniker": "GourmetApplication\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\github\\GourmetApplication\\GourmetApplication\\appsettings.json",
+              "RelativeToolTip": "GourmetApplication\\appsettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-04T04:46:46.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\github\\GourmetApplication\\GourmetApplication\\Program.cs",
+              "RelativeDocumentMoniker": "GourmetApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\github\\GourmetApplication\\GourmetApplication\\Program.cs",
+              "RelativeToolTip": "GourmetApplication\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAmwCEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T04:29:54.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RamenController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\github\\GourmetApplication\\GourmetApplication\\Controllers\\RamenController.cs",
+              "RelativeDocumentMoniker": "GourmetApplication\\Controllers\\RamenController.cs",
+              "ToolTip": "C:\\Users\\user\\github\\GourmetApplication\\GourmetApplication\\Controllers\\RamenController.cs",
+              "RelativeToolTip": "GourmetApplication\\Controllers\\RamenController.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAswBcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T05:45:45.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\github\\GourmetApplication\\GourmetApplication\\Views\\Ramen\\Index.cshtml",
+              "RelativeDocumentMoniker": "GourmetApplication\\Views\\Ramen\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\github\\GourmetApplication\\GourmetApplication\\Views\\Ramen\\Index.cshtml",
+              "RelativeToolTip": "GourmetApplication\\Views\\Ramen\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T05:33:53.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GourmetJoinViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\github\\GourmetApplication\\GourmetApplication\\Models\\GourmetJoinViewModel.cs",
+              "RelativeDocumentMoniker": "GourmetApplication\\Models\\GourmetJoinViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\github\\GourmetApplication\\GourmetApplication\\Models\\GourmetJoinViewModel.cs",
+              "RelativeToolTip": "GourmetApplication\\Models\\GourmetJoinViewModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T05:24:23.352Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
